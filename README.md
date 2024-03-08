@@ -29,8 +29,14 @@ Run this Colab notebook to replicate the results obtained : https://colab.resear
 
 ### Results
 
-Training results can be found here: https://app.clear.ml/projects/a0dd7d1674014fb09a00509c8a2a88b7/experiments/4a355f2f704e4fd9aa5406664b2d3062/output/execution
-
+Training results can be found here:
+https://app.clear.ml/projects/a0dd7d1674014fb09a00509c8a2a88b7/experiments/4a355f2f704e4fd9aa5406664b2d3062/output/execution
+https://app.clear.ml/projects/a0dd7d1674014fb09a00509c8a2a88b7/experiments/c08793dbc3a745469dfa6ff6cbc11fd1/output/execution
+https://app.clear.ml/projects/a0dd7d1674014fb09a00509c8a2a88b7/experiments/4752108b666f4eb480e4b539135dbe96/output/execution
+https://app.clear.ml/projects/a0dd7d1674014fb09a00509c8a2a88b7/experiments/ce4b05cf090440e8901e41227bcf5bd2/output/execution
+https://app.clear.ml/projects/a0dd7d1674014fb09a00509c8a2a88b7/experiments/22446e358ca64035be10082530735185/output/execution
+https://app.clear.ml/projects/a0dd7d1674014fb09a00509c8a2a88b7/experiments/8b85dcbb793846f4832a085135674859/output/execution
+https://app.clear.ml/projects/a0dd7d1674014fb09a00509c8a2a88b7/experiments/f5bf0032095b4f3cbd8c7609c3f2d762/output/execution
 
 ### Citation
 
