@@ -11,15 +11,13 @@ Unmanned aerial vehicles (UAVs) have demonstrated substantial improvements in th
 ### Data
 
 Data used for this study can be found here : 
-Original : https://universe.roboflow.com/search?q=idid_original&t=metadata
-Original + Rain : https://universe.roboflow.com/search?q=idid_rain&t=metadata
-Original + Snow : https://universe.roboflow.com/search?q=idid_snow&t=metadata
+![image](https://github.com/phd-benel/weather_powerline_insulator/assets/82882383/dead223b-3855-401d-9ec4-4194cfe24b55) Original : https://universe.roboflow.com/search?q=idid_original&t=metadata
+![image](https://github.com/phd-benel/weather_powerline_insulator/assets/82882383/02c09780-c3e1-4844-b3c5-ccf72acbf797)Original + Rain : https://universe.roboflow.com/search?q=idid_rain&t=metadata
+![image](https://github.com/phd-benel/weather_powerline_insulator/assets/82882383/181fec43-d13c-4af8-9aca-9d034e5d7cad)Original + Snow : https://universe.roboflow.com/search?q=idid_snow&t=metadata
+![image](https://github.com/phd-benel/weather_powerline_insulator/assets/82882383/79de1b4d-7873-44b6-b845-81fca2e6377c)
 Original + Fog : https://universe.roboflow.com/search?q=idid_fog&t=metadata
 
-![image](https://github.com/phd-benel/weather_powerline_insulator/assets/82882383/dead223b-3855-401d-9ec4-4194cfe24b55)
-![image](https://github.com/phd-benel/weather_powerline_insulator/assets/82882383/02c09780-c3e1-4844-b3c5-ccf72acbf797)
-![image](https://github.com/phd-benel/weather_powerline_insulator/assets/82882383/181fec43-d13c-4af8-9aca-9d034e5d7cad)
-![image](https://github.com/phd-benel/weather_powerline_insulator/assets/82882383/79de1b4d-7873-44b6-b845-81fca2e6377c)
+
 
 
 ### Experiments
@@ -37,6 +35,7 @@ https://app.clear.ml/projects/a0dd7d1674014fb09a00509c8a2a88b7/experiments/ce4b0
 https://app.clear.ml/projects/a0dd7d1674014fb09a00509c8a2a88b7/experiments/22446e358ca64035be10082530735185/output/execution
 https://app.clear.ml/projects/a0dd7d1674014fb09a00509c8a2a88b7/experiments/8b85dcbb793846f4832a085135674859/output/execution
 https://app.clear.ml/projects/a0dd7d1674014fb09a00509c8a2a88b7/experiments/f5bf0032095b4f3cbd8c7609c3f2d762/output/execution
+https://app.clear.ml/projects/a0dd7d1674014fb09a00509c8a2a88b7/experiments/970d1031a82c4c7b806325f32eb4846d/output/execution
 
 ### Citation
 
