@@ -1,10 +1,8 @@
-![image](https://github.com/phd-benel/weather_powerline_insulator/assets/82882383/37953301-9b08-4f69-bba8-5f1bdb019eef)# weather_powerline_insulator
-
-# Yolov8_gold
+# weather_powerline_insulator
 
 Hy, Peace be upon you, 
 
-This is the source code for the paper, "Weathering the Storm: Evaluating the Generalization of recent Object Detection Models for UAV Power Line Inspection of Insulators in Challenging Meteorological Conditions" accepted in AI2SD Global Submit Symposium Serie On Energy, Enviromnent and Agriculture , 15-17 November 2023 - Marrakech, Morocco
+This is the source code for the paper, "Weathering the Storm: Evaluating the Generalization of recent Object Detection Models for UAV Power Line Inspection of Insulators in Challenging Meteorological Conditions" submitted in The 4th International Conference on Innovative Research in Applied Science, Engineering and Technology - IRASET’2024, May 16-17, 2024 - Fez, Morocco
 
 ### Paper Abstract
 
@@ -12,36 +10,27 @@ Unmanned aerial vehicles (UAVs) have demonstrated substantial improvements in th
 
 ### Data
 
-Data used for this study can be found here : https://github.com/phd-benel/VPMBGI 
-IMGAUG PYTHON LIBRARY
+Data used for this study can be found here : 
+Original : https://universe.roboflow.com/search?q=idid_original&t=metadata
+Original + Rain : https://universe.roboflow.com/search?q=idid_rain&t=metadata
+Original + Snow : https://universe.roboflow.com/search?q=idid_snow&t=metadata
+Original + Fog : https://universe.roboflow.com/search?q=idid_fog&t=metadata
+
 ![image](https://github.com/phd-benel/weather_powerline_insulator/assets/82882383/dead223b-3855-401d-9ec4-4194cfe24b55)
 ![image](https://github.com/phd-benel/weather_powerline_insulator/assets/82882383/02c09780-c3e1-4844-b3c5-ccf72acbf797)
 ![image](https://github.com/phd-benel/weather_powerline_insulator/assets/82882383/181fec43-d13c-4af8-9aca-9d034e5d7cad)
 ![image](https://github.com/phd-benel/weather_powerline_insulator/assets/82882383/79de1b4d-7873-44b6-b845-81fca2e6377c)
 
 
-
-
-### Model Architecture
-
-Refer to this file for the model architecture : https://github.com/phd-benel/yolov8_improved_exp/blob/main/ultralytics/cfg/models/v8/yolov8_gold.yaml
-
-![image](https://github.com/phd-benel/yolov8_gold/assets/82882383/28daae33-28c2-4113-abfc-cdf9e1a3a4a0)
-Fig. 1. The overall simplified structure of the proposed improved model Yolov8-Gold. The orange blocks represent the new modules introduced in the Yolov8 architecture.
-
-For a clearer explanation of the architecture, please refer to this: https://github.com/phd-benel/yolov8_gold/issues/1
-
 ### Experiments
 
-https://colab.research.google.com/drive/14HN3xUVLOkSmENkUWIpjF_vGuxgpUtvf?usp=sharing
 
-Run this Colab notebook to replicate the results obtained through the training of YOLOv8_Gold Model: https://colab.research.google.com/drive/1tuk6NXmcILxMYUiBYCgUQGLd_rMjtCWk?usp=sharing
+Run this Colab notebook to replicate the results obtained : https://colab.research.google.com/drive/14HN3xUVLOkSmENkUWIpjF_vGuxgpUtvf?usp=sharing
 
 ### Results
 
-Training results of Yolov8_gold_m' : ![results](https://github.com/phd-benel/yolov8_gold/assets/82882383/ab3fd48d-6be6-4121-b7fb-29cbe0afc82d)
+Training results can be found here: https://app.clear.ml/projects/a0dd7d1674014fb09a00509c8a2a88b7/experiments/4a355f2f704e4fd9aa5406664b2d3062/output/execution
 
-Model weight of Yolov8_gold_m pretrained on VPMBGI : https://github.com/phd-benel/yolov8_gold/releases/download/untagged-afd4d8c9da44572fe2df/yolov8gold_m.pt
 
 ### Citation
 
@@ -53,7 +42,7 @@ This project is licensed under the GNU Affero General Public License v3.0 (AGPL-
 
 ### Acknowledgments
 
-We express our gratitude to Ultralytics YOLOv8 , the contributors of the objectdetection_script repository and the authors of "Gold-YOLO: Efficient Object Detector via Gather-and-Distribute Mechanism" paper for their valuable contributions and resources, which greatly assisted in the development and execution of this research.
+We express our gratitude to Ultralytics YOLOv8 for their valuable contributions and resources, which greatly assisted in the development and execution of this research.
 
 ### Contact 
 Please don't hesitate to report an issue on this GitHub repository if you require further information or assistance. I would be delighted to provide help and support.
