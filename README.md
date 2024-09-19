@@ -2,7 +2,7 @@
 
 Hy, Peace be upon you, 
 
-This is the source code for the paper, "Weathering the Storm: Evaluating the Generalization of recent Object Detection Models for UAV Power Line Inspection of Insulators in Challenging Meteorological Conditions" submitted in The 4th International Conference on Innovative Research in Applied Science, Engineering and Technology - IRASET’2024, May 16-17, 2024 - Fez, Morocco
+This is the source code for the paper, "Weathering the Storm: Evaluating the Generalization of recent Object Detection Models for UAV Power Line Inspection of Insulators in Challenging Meteorological Conditions" presented in The 4th International Conference on Innovative Research in Applied Science, Engineering and Technology - IRASET’2024, May 16-17, 2024 - Fez, Morocco
 
 ### Paper Abstract
 
