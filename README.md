@@ -47,7 +47,7 @@ https://app.clear.ml/projects/a0dd7d1674014fb09a00509c8a2a88b7/experiments/970d1
 
 ### Citation
 
-Too add
+Aitelhaj, R., Benelmostafa, BE., Medromi, H. (2026). Weathering the Storm: Evaluating the Generalization of Recent Object Detection Models for UAV Power Line Inspection of Insulators in Challenging Meteorological Conditions. In: Badir, H., Tabaa, M., Bellatreche, L., Mernik, M., Benatallah, B., Fissoune, R. (eds) New Technologies, Artificial Intelligence and Smart Data. INTIS 2024. Communications in Computer and Information Science, vol 2645. Springer, Cham. https://doi.org/10.1007/978-3-032-14964-0_38
 
 ### License
 
